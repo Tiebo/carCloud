@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd254edf-74e7-43ab-a562-d52fe05dfd04" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HDgLC9FCwOdoBmLxe4czC3CIqk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="compactDirectories" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "147",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "SQL 插入",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/Users/Tiebo/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.carClound.dao.mapper.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\project\carClound\src\lib" />
+      <recent name="D:\Code\project\carClound\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\project\carClound\src\lib" />
+      <recent name="D:\Code\project\carClound\src\main\java\com\carClound\img" />
+      <recent name="D:\Code\project\carClound\src\main\java\com\carClound" />
+      <recent name="D:\Code\project\carClound\src\main\java" />
+      <recent name="D:\Code\project\carClound\src\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carClound.Main" />
+      <module name="carClound" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carClound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carClound" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.DataBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carClound" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="DataBaseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carClound" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carClound" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carClound.dao.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carClound.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.carClound.utils.test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="JUnit.MainTest.DataBaseTest" />
+        <item itemvalue="JUnit.MainTest.test1" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.test.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dd254edf-74e7-43ab-a562-d52fe05dfd04" name="变更" comment="" />
+      <created>1667825011275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667825011275</updated>
+      <workItem from="1667825012549" duration="5977000" />
+      <workItem from="1667832281815" duration="3708000" />
+      <workItem from="1667909915731" duration="5324000" />
+      <workItem from="1667971415409" duration="12000" />
+      <workItem from="1668068700724" duration="16512000" />
+      <workItem from="1668089445128" duration="611000" />
+      <workItem from="1668132252356" duration="4916000" />
+      <workItem from="1668140441113" duration="19597000" />
+      <workItem from="1668168840285" duration="7523000" />
+      <workItem from="1668230702342" duration="4936000" />
+      <workItem from="1668245879893" duration="1236000" />
+      <workItem from="1668257439853" duration="6903000" />
+      <workItem from="1668674680043" duration="47000" />
+      <workItem from="1668677360840" duration="1191000" />
+      <workItem from="1668763351612" duration="1451000" />
+      <workItem from="1668786118360" duration="358000" />
+      <workItem from="1668850005588" duration="3604000" />
+      <workItem from="1668857702088" duration="2798000" />
+      <workItem from="1668869288022" duration="3850000" />
+      <workItem from="1668942951554" duration="6169000" />
+      <workItem from="1668954312239" duration="6043000" />
+      <workItem from="1669001375261" duration="10000" />
+      <workItem from="1669013169418" duration="9715000" />
+      <workItem from="1669083959939" duration="222000" />
+      <workItem from="1669084609989" duration="2833000" />
+      <workItem from="1669087482834" duration="2759000" />
+      <workItem from="1669090255317" duration="2177000" />
+      <workItem from="1669120908878" duration="25000" />
+      <workItem from="1669125379619" duration="8690000" />
+      <workItem from="1669171866942" duration="3347000" />
+      <workItem from="1669185002193" duration="6219000" />
+      <workItem from="1669204804636" duration="7521000" />
+      <workItem from="1669212346593" duration="153000" />
+      <workItem from="1669213064174" duration="1035000" />
+      <workItem from="1669214136257" duration="11000" />
+      <workItem from="1669260321725" duration="779000" />
+      <workItem from="1669294369204" duration="1190000" />
+      <workItem from="1669296482723" duration="61000" />
+      <workItem from="1669296556041" duration="20000" />
+      <workItem from="1669298508069" duration="5597000" />
+      <workItem from="1669304254797" duration="2587000" />
+      <workItem from="1669306885939" duration="257000" />
+      <workItem from="1669345301219" duration="10000" />
+      <workItem from="1669517667489" duration="1081000" />
+      <workItem from="1669627731168" duration="619000" />
+      <workItem from="1669964397155" duration="1490000" />
+      <workItem from="1669970299257" duration="45000" />
+      <workItem from="1669970652402" duration="7501000" />
+      <workItem from="1669995235925" duration="3588000" />
+      <workItem from="1670041728656" duration="17797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
